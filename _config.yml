@@ -20,7 +20,7 @@
 
 title: Hi there, I'm Xingyu Chen
 email: xich9921@colorado.edu
-description: | # this means to ignore newlines until "baseurl:"
+description: > # this means to ignore newlines until "baseurl:"
  I'm a big badminton fan, playing badminton three times a week in Boulder and Westminster; 
  I’m currently learning guitar; 
  I’m looking to collaborate with Professors in Data Science Field; 
